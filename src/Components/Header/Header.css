@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.headerr {
+  max-width: 1920px;
+  height: 80px;
+  background-color: #fff;
+}
+
+.ash1 {
+  font-family: "Work Sans";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  margin-right: 1165px;
+  color: #2947a9;
+  margin-top: 22px;
+}
+
+.pi {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 721px;
+  margin-right: 121px;
+  margin-top: -30px;
+}
+
+.pi2 {
+  color: #f9995d;
+}
+
+
+/* section 2 */
